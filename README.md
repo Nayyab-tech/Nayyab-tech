@@ -28,10 +28,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Nayab's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Nayab's GitHub stats](https://github-readme-stats.vercel.app/api?Nayyab-tech=YourGitHubUsername&show_icons=true&theme=radical)  
 
 ---
 
 ## 🌐 Connect with me  
-- 📧 Email: *(add your email here if you want)*  
-- 🔗 LinkedIn: *(add LinkedIn link here)*  
+- 📧 Email: *(?)*  
+- 🔗 LinkedIn: *(?)*  

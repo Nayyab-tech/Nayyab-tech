@@ -10,7 +10,7 @@
 - **Languages:** C++, Python, HTML  
 - **Frameworks:** Django (beginner-level)  
 - **Tools:** GitHub, VS Code  
-- **Basic Tools Knowledge:** MS Word, PowerPoint, Excel  
+ 
 
 ---
 

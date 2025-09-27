@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**Nayyab-tech/Nayyab-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nayab Gul  
 
-Here are some ideas to get you started:
+🎓 A Computer Science student (5th Semester) passionate about learning and building real-world projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools  
+- **Languages:** C++, Python, HTML  
+- **Frameworks:** Django (beginner-level)  
+- **Tools:** GitHub, VS Code  
+- **Basic Tools Knowledge:** MS Word, PowerPoint, Excel  
+
+---
+
+## 📚 Currently Learning  
+- Android App Development  
+- Web Technologies  
+
+---
+
+## 💡 Interests  
+- Artificial Intelligence (AI)  
+- Android App Development  
+- Exploring innovative technologies  
+
+---
+
+## 📊 GitHub Stats  
+![Nayab's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Connect with me  
+- 📧 Email: *(add your email here if you want)*  
+- 🔗 LinkedIn: *(add LinkedIn link here)*  

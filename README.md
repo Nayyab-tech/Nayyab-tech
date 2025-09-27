@@ -33,6 +33,6 @@
 ---
 
 ## 🌐 Connect with me  
-- 📧 Email: *(add your email here if you want)*  
-- 🔗 LinkedIn: *(add LinkedIn link here)*  
+- 📧 Email: *()*  
+- 🔗 LinkedIn: *()*  
 

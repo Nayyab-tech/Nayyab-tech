@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Nayab Gul  
+# 👋 Hi, I'm Nayyab Gul  
 
 🎓 A Computer Science student (5th Semester) passionate about learning and building real-world projects.  
 

@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Nayyab Gul  
 
-🎓 A Computer Science student (5th Semester) passionate about learning and building real-world projects.  
+🎓 A Computer Science student (6th Semester) passionate about learning and building real-world projects.  
 
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages:** C++, Python, HTML  
+- **Languages:** C++, Python, HTML,Java, JavaScript ,C ,
 - **Frameworks:** Django (beginner-level)  
 - **Tools:** GitHub, VS Code  
  
@@ -16,7 +16,10 @@
 
 ## 📚 Currently Learning  
 - Android App Development  
-- Web Technologies  
+- Web Technologies
+- Advanced visual programming(C #)
+- Cyber Security
+- Web Engineering 
 
 ---
 
@@ -31,8 +34,4 @@
 ![Nayab's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
 
 ---
-
-## 🌐 Connect with me  
-- 📧 Email: *()*  
-- 🔗 LinkedIn: *()*  
 
